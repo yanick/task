@@ -392,7 +392,7 @@ up-to-date.
 Also, `task --status [tasks]...` will exit with a non-zero exit code if any of
 the tasks are not up-to-date.
 
-### Using programmatic checks to cancel execution of an task and it's dependencies
+### Using programmatic checks to cancel execution of an task and its dependencies
 
 In addition to `status` checks, there are also `preconditions` checks, which are
 the logical inverse of `status` checks.  That is, if you need a certain set of
